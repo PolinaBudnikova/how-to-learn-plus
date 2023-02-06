@@ -8,6 +8,4 @@
   display: block;
 }
 
-.footer__column-link:nth-of-type(3n) {
-  margin-bottom: 16px;
-}
+

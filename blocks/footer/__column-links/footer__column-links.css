@@ -4,3 +4,6 @@
   text-decoration: none;
   list-style-type:none;
 }
+.footer__column-links:last-child {
+  margin-bottom: 16px;
+}
